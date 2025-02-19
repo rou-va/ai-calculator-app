@@ -1,4 +1,7 @@
 gitdb==4.0.12
 GitPython==3.1.44
 groq==0.18.0
+python-dotenv==1.0.1
+pywin32==308
+requests==2.32.31
 streamlit==1.42.1
