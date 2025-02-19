@@ -120,7 +120,7 @@ This project is licensed under the **MIT License**.
 
 For any inquiries or collaboration opportunities, feel free to reach out!
 
-📧 **Email:** [your.email@example.com](mailto\:your.email@example.com)
+📧 **Email:** [ahanonuprincess1@gmail.com](mailto\:ahanonuprincess1@gmail.com)
 
-🌍 **GitHub:** [yourusername](https://github.com/yourusername)
+🌍 **GitHub:** [rou-va](https://github.com/rou-va)
 
